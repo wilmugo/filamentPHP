@@ -1,1 +1,1 @@
-## Comenzando proyecto del rincon de isma
+## Cambio de laravel 11 a 10
